@@ -2,7 +2,7 @@
   "name": "ichem-molecule",
   "version": "0.0.0",
   "description": "molecule (chemistry)",
-  "main": "index.js",
+  "main": "lib/molecule.js",
   "scripts": {
     "test": "mocha"
   },
@@ -16,6 +16,7 @@
   "author": "Sam Mikes",
   "license": "MIT",
   "devDependencies": {
+    "inchi": "^1.0.1",
     "istanbul": "^0.2.8",
     "jslint": "^0.3.3",
     "mocha": "^1.18.2",
