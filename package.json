@@ -13,5 +13,11 @@
     "inchi"
   ],
   "author": "Sam Mikes",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.2.8",
+    "jslint": "^0.3.3",
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  }
 }
