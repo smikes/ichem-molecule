@@ -1,0 +1,17 @@
+{
+  "name": "ichem-molecule",
+  "version": "0.0.0",
+  "description": "molecule (chemistry)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "molecule",
+    "chemistry",
+    "molfile",
+    "inchi"
+  ],
+  "author": "Sam Mikes",
+  "license": "MIT"
+}
