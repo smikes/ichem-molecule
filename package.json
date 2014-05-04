@@ -1,6 +1,6 @@
 {
   "name": "ichem-molecule",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "molecule (chemistry)",
   "main": "lib/molecule.js",
   "scripts": {
